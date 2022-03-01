@@ -1,5 +1,5 @@
 # FODC_DT
-[![DOI](https://zenodo.org/badge/440560213.svg)](https://zenodo.org/badge/latestdoi/440560213) 
+[![DOI](https://zenodo.org/badge/440560213.svg)](https://zenodo.org/account/settings/github/repository/Heictor/FODC_DT) 
 [![DOI](https://img.shields.io/badge/RSD-10.33448%2Frsd--v10i16.23387-brightgreen)](https://rsdjournal.org/index.php/rsd/article/view/23387) <br> 
 
 Codes of the paper named: Fractional order differential calculus applied on decision making system to smart grid management via decision trees.
